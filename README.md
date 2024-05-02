@@ -1,6 +1,6 @@
 # South Fort Thomas Land Cover Data
 
-Link to Github Pages Site [N-Wormald.github.io/FT_LCD/](https://n-wormald.github.io/FT-Land-Cover/)
+Link to Github Pages Site [N-Wormald.github.io/FT-Land-Cover/](https://n-wormald.github.io/FT-Land-Cover/)
 
 ![South Fort Thomas Land Cover Data](Layout.jpg)
 
